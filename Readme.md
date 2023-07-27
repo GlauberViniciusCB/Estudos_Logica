@@ -1,0 +1,1 @@
+Resolução de alguns códigos para treinar lógica no Visualg.
